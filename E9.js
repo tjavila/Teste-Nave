@@ -6,5 +6,5 @@ let objetos = [
 ]
 
 objetos.forEach(function(atual) {
-  if(atual.idade<25) console.log(atual.nome)
+  if(atual.idade<25) console.log(atual)
 });
